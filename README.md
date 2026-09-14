@@ -9,13 +9,13 @@
 
 ## ✨ Favorite Projects
 
-- **Periomax:** An open-source menstrual cycle and pregnancy tracker focused on privacy. It collects no personal data. 
+- **Periomax:** An open-source menstrual cycle and pregnancy tracker focused on privacy. It collects no personal data.
+- **Personal Portfolio:** A website showcasing my projects and skills.
 
 ---
 
 ## 🔭 Project Wishlist
 
-- **Personal Portfolio:** A website showcasing my projects and skills.
 - **More projects coming soon...**
 
 ---
